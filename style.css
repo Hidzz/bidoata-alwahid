@@ -1,0 +1,37 @@
+
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 10px;
+            background-color: #CD853F;
+        }
+        .judul {
+            max-width: 600px;
+            margin: auto;
+            margin-bottom: 30px;
+            background: #A0522D;
+            padding: 20px;
+            border-radius: 15px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1)
+        }
+        h1 {
+            color: white;
+            text-align: center;
+        }
+        .bio {
+           color: white;
+            margin-bottom: 20px;
+            display: flex;
+            flex-direction: column;
+        }
+        .bio strong {
+            display: inline-block;
+            width: 120px;
+           }
+           .img {
+             text-align: center;
+             margin-bottom: 10px;
+           }
+
+    
